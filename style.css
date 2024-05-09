@@ -1,0 +1,16 @@
+h2 
+{
+    font-size: 15;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: center;
+    background-color: beige;
+}
+h3
+{
+    font-size: 20;
+    font-family: 'Times New Roman', Times, serif;
+    color: blueviolet;
+    text-align: left;
+    background-color: azure;
+}
