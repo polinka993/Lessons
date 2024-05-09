@@ -2,9 +2,9 @@ h2
 {
     font-size: 15;
     font-family: 'Times New Roman', Times, serif;
-    color: blue;
+    color: #f7f7f7;
     text-align: center;
-    background-color: beige;
+    background-color: rgb(173, 34, 237);
 }
 h3
 {
